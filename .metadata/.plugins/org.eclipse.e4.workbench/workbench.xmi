@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="ASCII"?>
 <application:Application xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:advanced="http://www.eclipse.org/ui/2010/UIModel/application/ui/advanced" xmlns:application="http://www.eclipse.org/ui/2010/UIModel/application" xmlns:basic="http://www.eclipse.org/ui/2010/UIModel/application/ui/basic" xmlns:menu="http://www.eclipse.org/ui/2010/UIModel/application/ui/menu" xmi:id="_-0LPABn7Ee-bIInOENWk0w" elementId="org.eclipse.e4.legacy.ide.application" contributorURI="platform:/plugin/org.eclipse.platform" selectedElement="_-0LPARn7Ee-bIInOENWk0w" bindingContexts="_-0LPChn7Ee-bIInOENWk0w">
-  <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xA;&lt;workbench>&#xA;&lt;mruList>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;Arithematic_code.java&quot; tooltip=&quot;core java code/src/code/Arithematic_code.java&quot;>&#xA;&lt;persistable path=&quot;/core java code/src/code/Arithematic_code.java&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;PostpreImcrement.java&quot; tooltip=&quot;Demo/src/PostpreImcrement.java&quot;>&#xA;&lt;persistable path=&quot;/Demo/src/PostpreImcrement.java&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;Demo.java&quot; tooltip=&quot;Demo/src/Demo.java&quot;>&#xA;&lt;persistable path=&quot;/Demo/src/Demo.java&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;PreIncrementOperators.java&quot; tooltip=&quot;Demo/src/PreIncrementOperators.java&quot;>&#xA;&lt;persistable path=&quot;/Demo/src/PreIncrementOperators.java&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;PostIncrementOperator.java&quot; tooltip=&quot;Demo/src/PostIncrementOperator.java&quot;>&#xA;&lt;persistable path=&quot;/Demo/src/PostIncrementOperator.java&quot;/>&#xA;&lt;/file>&#xA;&lt;/mruList>&#xA;&lt;/workbench>"/>
+  <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xA;&lt;workbench>&#xA;&lt;mruList>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;demo.java&quot; tooltip=&quot;core java code/src/code/demo.java&quot;>&#xA;&lt;persistable path=&quot;/core java code/src/code/demo.java&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;Arithematic_code.java&quot; tooltip=&quot;core java code/src/code/Arithematic_code.java&quot;>&#xA;&lt;persistable path=&quot;/core java code/src/code/Arithematic_code.java&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;PostpreImcrement.java&quot; tooltip=&quot;Demo/src/PostpreImcrement.java&quot;>&#xA;&lt;persistable path=&quot;/Demo/src/PostpreImcrement.java&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;Demo.java&quot; tooltip=&quot;Demo/src/Demo.java&quot;>&#xA;&lt;persistable path=&quot;/Demo/src/Demo.java&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;PreIncrementOperators.java&quot; tooltip=&quot;Demo/src/PreIncrementOperators.java&quot;>&#xA;&lt;persistable path=&quot;/Demo/src/PreIncrementOperators.java&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;PostIncrementOperator.java&quot; tooltip=&quot;Demo/src/PostIncrementOperator.java&quot;>&#xA;&lt;persistable path=&quot;/Demo/src/PostIncrementOperator.java&quot;/>&#xA;&lt;/file>&#xA;&lt;/mruList>&#xA;&lt;/workbench>"/>
   <tags>activeSchemeId:org.eclipse.ui.defaultAcceleratorConfiguration</tags>
   <children xsi:type="basic:TrimmedWindow" xmi:id="_-0LPARn7Ee-bIInOENWk0w" elementId="IDEWindow" contributorURI="platform:/plugin/org.eclipse.platform" selectedElement="_-7xr0Rn7Ee-bIInOENWk0w" label="%trimmedwindow.label.eclipseSDK" x="8" y="33" width="1354" height="781">
     <persistedState key="coolBarVisible" value="true"/>
@@ -226,12 +226,18 @@
       <tags>categoryTag:Help</tags>
     </sharedElements>
     <sharedElements xsi:type="advanced:Area" xmi:id="_-_yCEBn7Ee-bIInOENWk0w" elementId="org.eclipse.ui.editorss" selectedElement="_-_yCERn7Ee-bIInOENWk0w">
-      <children xsi:type="basic:PartStack" xmi:id="_-_yCERn7Ee-bIInOENWk0w" elementId="PartStack@501957bf" selectedElement="_y205cHp1Ee-LZZmiAe2Vow">
+      <children xsi:type="basic:PartStack" xmi:id="_-_yCERn7Ee-bIInOENWk0w" elementId="PartStack@501957bf" selectedElement="_St6zkHqGEe-P__2zMQtCbA">
         <tags>org.eclipse.e4.primaryDataStack</tags>
         <tags>EditorStack</tags>
         <tags>active</tags>
         <children xsi:type="basic:Part" xmi:id="_y205cHp1Ee-LZZmiAe2Vow" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="Arithematic_code.java" iconURI="platform:/plugin/org.eclipse.jdt.ui/icons/full/obj16/jcu_obj.png" closeable="true">
-          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;Arithematic_code.java&quot; partName=&quot;Arithematic_code.java&quot; title=&quot;Arithematic_code.java&quot; tooltip=&quot;core java code/src/code/Arithematic_code.java&quot;>&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/core java code/src/code/Arithematic_code.java&quot;/>&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;181&quot; selectionTopPixel=&quot;0&quot;/>&#xA;&lt;/editor>"/>
+          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;Arithematic_code.java&quot; partName=&quot;Arithematic_code.java&quot; title=&quot;Arithematic_code.java&quot; tooltip=&quot;core java code/src/code/Arithematic_code.java&quot;>&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/core java code/src/code/Arithematic_code.java&quot;/>&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;40&quot; selectionOffset=&quot;50&quot; selectionTopPixel=&quot;0&quot;/>&#xA;&lt;/editor>"/>
+          <tags>Editor</tags>
+          <tags>removeOnHide</tags>
+          <tags>org.eclipse.jdt.ui.CompilationUnitEditor</tags>
+        </children>
+        <children xsi:type="basic:Part" xmi:id="_St6zkHqGEe-P__2zMQtCbA" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="demo.java" iconURI="platform:/plugin/org.eclipse.jdt.ui/icons/full/obj16/jcu_obj.png" closeable="true">
+          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;demo.java&quot; partName=&quot;demo.java&quot; title=&quot;demo.java&quot; tooltip=&quot;core java code/src/code/demo.java&quot;>&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/core java code/src/code/demo.java&quot;/>&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;136&quot; selectionTopPixel=&quot;0&quot;/>&#xA;&lt;/editor>"/>
           <tags>Editor</tags>
           <tags>removeOnHide</tags>
           <tags>org.eclipse.jdt.ui.CompilationUnitEditor</tags>
@@ -427,7 +433,7 @@
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_-8SpMBn7Ee-bIInOENWk0w" elementId="org.eclipse.ui.workbench.file">
         <tags>Draggable</tags>
-        <children xsi:type="menu:HandledToolItem" xmi:id="_gxoOoHp1Ee-LZZmiAe2Vow" elementId="print" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/print_edit.png" tooltip="Print" command="_-0aftBn7Ee-bIInOENWk0w"/>
+        <children xsi:type="menu:HandledToolItem" xmi:id="_C2yi0HqGEe-P__2zMQtCbA" elementId="print" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/print_edit.png" tooltip="Print" command="_-0aftBn7Ee-bIInOENWk0w"/>
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_-8SpMRn7Ee-bIInOENWk0w" elementId="group.edit" toBeRendered="false">
         <tags>toolbarSeparator</tags>
@@ -435,8 +441,8 @@
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_-8SpMxn7Ee-bIInOENWk0w" elementId="org.eclipse.ui.workbench.edit">
         <tags>Draggable</tags>
-        <children xsi:type="menu:HandledToolItem" xmi:id="_gxo1sXp1Ee-LZZmiAe2Vow" elementId="undo" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/undo_edit.png" tooltip="Undo" command="_-0YqrBn7Ee-bIInOENWk0w"/>
-        <children xsi:type="menu:HandledToolItem" xmi:id="_gxo1snp1Ee-LZZmiAe2Vow" elementId="redo" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/redo_edit.png" tooltip="Redo" enabled="false" command="_-0ZRqxn7Ee-bIInOENWk0w"/>
+        <children xsi:type="menu:HandledToolItem" xmi:id="_C2zJ4HqGEe-P__2zMQtCbA" elementId="undo" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/undo_edit.png" tooltip="Undo" command="_-0YqrBn7Ee-bIInOENWk0w"/>
+        <children xsi:type="menu:HandledToolItem" xmi:id="_C2zJ4XqGEe-P__2zMQtCbA" elementId="redo" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/redo_edit.png" tooltip="Redo" enabled="false" command="_-0ZRqxn7Ee-bIInOENWk0w"/>
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_-8SpNBn7Ee-bIInOENWk0w" elementId="additions" toBeRendered="false">
         <tags>toolbarSeparator</tags>
@@ -475,7 +481,7 @@
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_-8SpOBn7Ee-bIInOENWk0w" elementId="org.eclipse.ui.workbench.navigate">
         <tags>Draggable</tags>
-        <children xsi:type="menu:HandledToolItem" xmi:id="_gxpcwXp1Ee-LZZmiAe2Vow" elementId="org.eclipse.ui.window.pinEditor" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/pin_editor.png" tooltip="Pin Editor" type="Check" command="_-0Z4_hn7Ee-bIInOENWk0w"/>
+        <children xsi:type="menu:HandledToolItem" xmi:id="_C2zw8HqGEe-P__2zMQtCbA" elementId="org.eclipse.ui.window.pinEditor" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/pin_editor.png" tooltip="Pin Editor" type="Check" command="_-0Z4_hn7Ee-bIInOENWk0w"/>
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_-8SpORn7Ee-bIInOENWk0w" elementId="group.editor" toBeRendered="false">
         <tags>toolbarSeparator</tags>
@@ -1130,7 +1136,7 @@
     <bindings xmi:id="_-0pJExn7Ee-bIInOENWk0w" keySequence="ALT+CR" command="_-0ZRzhn7Ee-bIInOENWk0w"/>
   </bindingTables>
   <bindingTables xmi:id="_-05AuBn7Ee-bIInOENWk0w" contributorURI="platform:/fragment/org.eclipse.e4.ui.workbench.renderers.swt.cocoa" bindingContext="_-0LPDRn7Ee-bIInOENWk0w">
-    <bindings xmi:id="_goZaIHp1Ee-LZZmiAe2Vow" keySequence="M1+W" command="_-05Athn7Ee-bIInOENWk0w"/>
+    <bindings xmi:id="_CtcZkXqGEe-P__2zMQtCbA" keySequence="M1+W" command="_-05Athn7Ee-bIInOENWk0w"/>
   </bindingTables>
   <bindingTables xmi:id="_-_ypIRn7Ee-bIInOENWk0w" bindingContext="_-_ypIBn7Ee-bIInOENWk0w"/>
   <bindingTables xmi:id="_-_ypIxn7Ee-bIInOENWk0w" bindingContext="_-_ypIhn7Ee-bIInOENWk0w"/>
@@ -2658,7 +2664,7 @@
   <addons xmi:id="_-0LPFhn7Ee-bIInOENWk0w" elementId="MinMax Addon" contributorURI="platform:/plugin/org.eclipse.platform" contributionURI="bundleclass://org.eclipse.e4.ui.workbench.addons.swt/org.eclipse.e4.ui.workbench.addons.minmax.MinMaxAddon"/>
   <addons xmi:id="_-0LPFxn7Ee-bIInOENWk0w" elementId="org.eclipse.ui.workbench.addon.0" contributorURI="platform:/plugin/org.eclipse.platform" contributionURI="bundleclass://org.eclipse.e4.ui.workbench/org.eclipse.e4.ui.internal.workbench.addons.HandlerProcessingAddon"/>
   <addons xmi:id="_-0OSUBn7Ee-bIInOENWk0w" elementId="SplitterAddon" contributionURI="bundleclass://org.eclipse.e4.ui.workbench.addons.swt/org.eclipse.e4.ui.workbench.addons.splitteraddon.SplitterAddon"/>
-  <addons xmi:id="_goSscHp1Ee-LZZmiAe2Vow" elementId="org.eclipse.ui.ide.addon.0" contributionURI="bundleclass://org.eclipse.ui.ide/org.eclipse.ui.internal.ide.addons.SaveAllDirtyPartsAddon"/>
+  <addons xmi:id="_IYS0IKimEeS11vbz3f9ezw" elementId="org.eclipse.ui.ide.addon.0" contributorURI="platform:/plugin/org.eclipse.ui.ide" contributionURI="bundleclass://org.eclipse.ui.ide/org.eclipse.ui.internal.ide.addons.SaveAllDirtyPartsAddon"/>
   <addons xmi:id="_dz0JgGOlEeSMMaPQU2nlzw" elementId="org.eclipse.ui.ide.application.addon.0" contributorURI="platform:/plugin/org.eclipse.ui.ide.application" contributionURI="bundleclass://org.eclipse.ui.ide.application/org.eclipse.ui.internal.ide.application.addons.ModelCleanupAddon"/>
   <addons xmi:id="_-04ZoBn7Ee-bIInOENWk0w" elementId="org.eclipse.e4.ui.workbench.renderers.swt.cocoa.CocoaUIHandler" contributionURI="bundleclass://org.eclipse.e4.ui.workbench.renderers.swt/org.eclipse.e4.ui.workbench.renderers.swt.cocoa.CocoaUIHandler"/>
   <categories xmi:id="_-0W1MBn7Ee-bIInOENWk0w" elementId="org.eclipse.team.ui.category.team" name="Version control (Team)" description="Actions that apply when working with a version control system"/>
